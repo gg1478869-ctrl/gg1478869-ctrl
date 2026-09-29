@@ -2,8 +2,12 @@
 ## Hi there 👋
 
 <!--
-**gg1478869-ctrl/gg1478869-ctrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+**gg1478869-ctrl/gg1478869-ctrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile 
+### About me
+I am a computor science student at rift valley university.I am passionate about data science and AI.
+### Skills
+* programming languages : python, java, c++
+* Tools : jupyter Notebook, pandas, Numpy, Git, Github
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
